@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://java.sun.com/jsf/core">
+    <h:head>
+        <title>Facelet Title</title>
+        <link href="./resources/css/default.css" rel="stylesheet" type="text/css" />
+    </h:head>
+    <body>
+        <section id="content" class="m-t-lg wrapper-md animated fadeInUp">
+            <a class="nav-brand">Library Management System</a> 
+            <div class="row m-n">
+                <div class="col-md-4 col-md-offset-4 m-t-lg">
+                    <p:growl id="loginGrowl" showDetail="true" />
+                    <section class="panel">
+                        <header class="panel-heading text-center"> Sign in </header>
+                        <h:form class="panel-body">
+                                <p:panel>
+                                        <div class="form-group"> <label class="control-label">Username</label>
+                                            <h:inputText value="#{authenticationManagedBean.username}" required="true" id="username" class="form-control"/> </div>
+                                        <div class="form-group"> <label class="control-label">Password</label>
+                                            <h:inputSecret value="#{authenticationManagedBean.password}" required="true" id="password" class="form-control"/> </div>
+                                    <p:commandButton value="Login" type="submit" update="loginGrowl" class="btn btn-info" action="#{authenticationManagedBean.login}"/>
+                                    <h:message for="loginForm"/>
+                                </p:panel>
+                        </h:form>
+                    </section>
+                </div>
+            </div>
+        </section>
+        <!-- footer --> 
+        <footer id="footer">
+            <div class="text-center padder clearfix">
+                <p> <small>IS3106 Library Management System</small> </p>
+            </div>
+        </footer>
+    </body>
+</html>
+
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Pair Project">
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/session/stateless/StaffSessionBeanLocal.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/exception/LendingNotFoundException.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/entity/Member.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/entity/Staff.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/session/stateless/BookSessionBean.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/session/stateless/BookSessionBeanLocal.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/setup/glassfish-resources.xml</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/exception/StaffNotFoundException.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/exception/BookNotAvailableException.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/exception/FineNotPaidException.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/session/stateless/MemberSessionBeanLocal.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/session/stateless/LendAndReturnSessionBean.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/session/stateless/LendAndReturnSessionBeanLocal.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/entity/LendAndReturn.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/exception/EntityManagerException.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/exception/BookNotFoundException.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/session/singleton/DataInitSessionBean.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/exception/MemberNotFoundException.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/session/stateless/MemberSessionBean.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/enume/BookStatus.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/entity/Book.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/session/stateless/StaffSessionBean.java</file>
+            <file>file:/C:/Users/ryanl/Documents/NetBeansProjects/IS3106/LibraryManagementSystem/LibraryManagementSystem-ejb/src/java/exception/InvalidLoginException.java</file>
+        </group>
+    </open-files>
+</project-private>
