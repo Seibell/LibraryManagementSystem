@@ -1,6 +1,6 @@
 # LibraryManagementSystem
 
-##Background
+## Background
 The West Coast community centre is planning to establish a community library to improve community 
 engagement by providing free access to books and study areas. In order to streamline the lending 
 process of books and to reduce the workload of the staff, the community management has decided 
